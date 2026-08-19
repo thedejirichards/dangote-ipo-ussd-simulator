@@ -1,0 +1,8 @@
+{
+  "name": "Remix USSD Simulator",
+  "description": "A mobile phone simulator for demonstrating USSD flows with an interactive dialer and dummy home screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
